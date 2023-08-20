@@ -1,5 +1,5 @@
 # Heading 1
 ## Heading 2
 ### Heading 3
-**bold**
+** bold **
 #### Heading 4
